@@ -25,7 +25,7 @@ function TitleBar(props) {
           </Col>
           <Col xs={7}>
             <div style={headerStyles}>
-              <Link to="about" style={{color: "#888", fontSize: 20 }}>About</Link>
+              <Link to="/about" style={{color: "#888", fontSize: 20 }}>About</Link>
             </div>
           </Col>
         </Row>
