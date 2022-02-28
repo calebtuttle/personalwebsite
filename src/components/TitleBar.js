@@ -11,21 +11,39 @@ const headerStyles = {
   overflow: 'hidden'
 };
 
-function TitleBar() {
+function TitleBar(props) {
   return (
     <div >
+      {/* Navbar */}
       <Grid fluid>
         <Row className="show-grid">
-          <Col xs={6}></Col>
-          <Col xs={12}>
+          <Col xs={7}></Col>
+          <Col xs={10}>
             <div style={headerStyles}>
               <Link to="/" style={{color: "#888"}}>Caleb Tuttle</Link>
             </div>
           </Col>
-          <Col xs={6}></Col>
+          <Col xs={7}>
+            <div style={headerStyles}>
+              <Link to="about" style={{color: "#888", fontSize: 20 }}>About</Link>
+            </div>
+          </Col>
         </Row>
       </Grid>
       <hr />
+
+      {/* Page Title */}
+      <Grid fluid>
+        <Row className="show-grid">
+          <Col xs={7}></Col>
+          <Col xs={10}>
+            <div style={{ color: '#333' }}>
+              <h3>{props.pageTitle}</h3>
+            </div>
+          </Col>
+          <Col xs={7}></Col>
+        </Row>
+      </Grid>
     </div>
   );
 }
