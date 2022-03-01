@@ -20,6 +20,16 @@ function NotesPage() {
           <Col xs={7}></Col>
           <Col xs={10}>
             <div style={style} >
+              <h4>Papers</h4>
+              <p>
+                <a href="https://doi.org/10.5281/zenodo.6320575" target="_blank">
+                  An Active Inference Ontology for Decentralized Science: from Situated Sensemaking to the Epistemic Commons
+                </a>
+                <div style={{ fontSize: "0.8rem" }}>(Preprint. I contributed to the review of Web3 technologies used in DeSci.)</div>
+              </p>
+              <br />
+
+              <h4>Blog Posts</h4>
               <p><a href="https://pulse.opsci.io/the-world-computers-hard-drive-swarm-24d3b47ef915" target="_blank">
                 The World Computer’s Hard Drive: Swarm
               </a></p>
