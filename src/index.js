@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import HomePage from './components/HomePage';
 import AboutPage from './components/AboutPage';
 import NotesPage from './components/NotesPage';
+import NotePage from './components/NotePage';
 import ExternalPage from './components/ExternalPage';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import 'rsuite/dist/rsuite.min.css';
@@ -15,6 +16,7 @@ ReactDOM.render(
         <Route exact path="/" element={<HomePage />} />
         <Route exact path="/about" element={<AboutPage />} />
         <Route exact path="/notes" element={<NotesPage />} />
+        {/* <Route exact path="/note" element={<NotePage />} /> */}
         <Route exact path="/external" element={<ExternalPage />} />
       </Routes>
     </BrowserRouter>,
