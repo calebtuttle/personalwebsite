@@ -1,8 +1,3 @@
----
-layout: post
-title: Maslow's Hierarchy of Needs as a utility function
----
-
 Dear reader, I hardly know what I'm talking about. These notes touch on utility functions, but I have only taken intro economics classes. I probably make some mistakes, but I'm making these notes public in part because I want my confusions to be pointed out. So if you have criticisms, reading suggestions, or other feedback, please reach out to [me on Twitter](https://twitter.com/calebtuttle9).
 
 ## Modeling needs

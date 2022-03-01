@@ -1,8 +1,3 @@
----
-layout: post
-title: What is DeSci?
----
-
 A movement of scientists, builders, artists, communicators, and investors is developing tools that might radically change science. The movement is called _decentralized science_ or _DeSci_ for short. Let's take a peak behind the DeSci curtain.
 
 To start, the term DeSci is a conjoining of “decentralized science.” Although there is some truth to DeSci being defined by decentralization, this naming is a bit of a historical accident. Defining DeSci in terms of decentralization can be misleading, just as defining the Protestant Revolution in terms of schizms can be misleading. The Protestant Revolution led to many schizms within the Christian church, but a historian who focuses on this fact without acknowledging the role of the printing press, institutional practices, and theology will be left with a wanting account of the period. Likewise, DeSci has more to do with technology and the problems within the established institutions than with decentralization as an end in itself.

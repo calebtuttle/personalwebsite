@@ -5,15 +5,13 @@ import { Grid, Row, Col } from 'rsuite';
 
 import TitleBar from './TitleBar';
 
-import TestMarkdown from '../markdown/Test.md';
 
-
-function NotePage(props) {
+function NoteContainer(props) {
 
   const [markdown, setMarkdown] = useState("");
 
   function getMarkdown() {
-    fetch(TestMarkdown).then(response => response.text()).then(text => setMarkdown(text));
+    fetch(props.markdown).then(response => response.text()).then(text => setMarkdown(text));
   }
 
   useEffect( () => {
@@ -42,4 +40,4 @@ function NotePage(props) {
 }
 
 
-export default NotePage
+export default NoteContainer

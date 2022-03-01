@@ -1,8 +1,3 @@
----
-layout: post
-title: The decision-making function - notes
----
-
 Maybe we can represent the human actor as a function of functions. We can call it _the decision-making function_.
 
 I think the decision-making function could be regarded as an interpretation of Aristotle's *Nicomachean Ethics* inspired by Kant's *Critique of Pure Reason*.

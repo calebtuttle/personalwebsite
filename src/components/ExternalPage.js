@@ -1,9 +1,7 @@
 import React from 'react';
-import { Link } from "react-router-dom";
 import { Grid, Row, Col } from 'rsuite';
 
 import TitleBar from './TitleBar';
-
 
 const style = {
   fontSize: '1.2em'

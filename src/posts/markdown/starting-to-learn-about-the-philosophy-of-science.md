@@ -1,10 +1,3 @@
----
-layout: post
-title: I'm starting to learn about the philosophy of science
----
-
-<!-- There will likely be more entries of this sort. Maybe make the title more broad and add numbers (e.g., "Notes on the philosophy of science 1"). -->
-
 I have begun to think and read about DeSci and the philosophy of science...
 
 And it seems to me that scientific knowledge has many languages/aspects/formulations. Scientists communicate with natural language, mathematics, logic, the formalizations of chemistry (for example), data, algorithms, machine learning models (which seem to be algorithms partly defined by an initializing set of data), and probably other devices. 

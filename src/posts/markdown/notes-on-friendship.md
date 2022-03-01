@@ -1,8 +1,3 @@
----
-layout: post
-title: Notes on friendship
----
-
 Dear reader, I hope these ideas strike you as weird. If you find them weird (in a good or bad way), feel free to reach out to [me on Twitter](https://twitter.com/calebtuttle9).
 
 ## Introduction

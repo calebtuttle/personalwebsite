@@ -1,8 +1,3 @@
----
-layout: post
-title: Hash tables and Russell's theory of descriptions
----
-
 This is only a loose analogy, but...
 
 Bertrand Russell's [theory of descriptions](https://plato.stanford.edu/entries/descriptions/#RusTheDes) foreshadowed the use of [key-value](https://en.wikipedia.org/wiki/Key%E2%80%93value_database) representations of identity. 
